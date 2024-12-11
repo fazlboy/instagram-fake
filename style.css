@@ -1,0 +1,107 @@
+.ins {
+    position: relative;
+    left: 450px;
+    top: 100px;
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    border: solid black, 2px ;
+}
+.ins1 {
+   width: 200px;
+   height: 60px;
+   position: relative;
+   left: 90px;
+}
+.ins4 {
+    position: relative;
+    left: 50px;
+    top: 50px;
+    width: 300px;
+    height: 35px;
+    background-color: rgb(120, 174, 255);
+    border: solid rgb(120, 174, 255);
+    border-radius: 5px;
+    color: white;
+}
+.ins3 {
+    position: relative;
+    left: 50px;
+    top: 30px;
+    width: 290px;
+    height: 25px;
+}
+.ins2 {
+    position: relative;
+    left: 50px;
+    left: 50px;
+    top: 20px;
+    width: 290px;
+    height: 25px;
+
+}
+.ins5 {
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.ins6 {
+    position: relative;
+    left: 180px;
+    top: 20px;
+}
+.ins7 {
+    position: relative;
+    left: 240px;
+    bottom: 30px;
+}
+.ins8 {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 100px;
+}
+.ins9 {
+    position: relative;
+    left: 150px;
+    bottom: 50px;
+    color: rgb(120, 174, 255);
+}
+.ins9:hover {
+    color: rgb(68, 0, 255);
+}
+.ins10 {
+    position: relative;
+    left: 120px;
+    bottom: 45px;
+}
+.ins11 {
+    position: relative;
+    width: 400px;
+    height: 100px;
+    background-color: white;
+    border: solid black, 2px;
+    top: 130px;
+    left: 450px;
+}
+.ins12 {
+    position: relative;
+    left: 70px;
+    top: 40px;
+}
+.ins13 {
+    position: relative;
+    left: 270px;
+    color: rgb(68, 0, 255);
+}
+.ins14 {
+    position: relative;
+    left: 550px;
+    top: 150px;
+}
+.ins15 {
+    width: 350px;
+    position: relative;
+    top: 135px;
+    left: 440px;    
+}
